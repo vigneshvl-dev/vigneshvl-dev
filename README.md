@@ -6,9 +6,6 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://vigneshvl-dev.github.io/PORTFOLIO//](https://vigneshvl-dev.github.io/PORTFOLIO//)
