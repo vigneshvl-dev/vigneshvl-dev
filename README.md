@@ -39,6 +39,15 @@
 
 <p align="left">
   ## 🏆 Achievements
+  ## 🏆 Achievements
+
+✔ Built AWS cloud infrastructure using Terraform  
+✔ Automated Docker deployment on EC2 using user_data  
+✔ Implemented Infrastructure as Code (IaC) practices  
+✔ Hands-on experience with DevOps tools and workflows  
+✔ Active problem solver on LeetCode  
+✔ Consistent project development on GitHub
+
 
 <p align="left">
 
