@@ -41,7 +41,5 @@
 <p>
 <img src="https://streak-stats.demolab.com?user=vigneshvl-dev&theme=tokyonight" />
 </p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshvl-dev&layout=compact&theme=tokyonight" />
 </p>
 
