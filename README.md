@@ -39,7 +39,6 @@
 
 <p align="left">
   ## 🏆 Achievements
-  ## 🏆 Achievements
 
 ✔ Built AWS cloud infrastructure using Terraform  
 ✔ Automated Docker deployment on EC2 using user_data  
