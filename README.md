@@ -36,16 +36,21 @@
 
 
 <h3 align="left">🧠 LeetCode Stats</h3>
-## 🏆 Achievements
-
-✔ Built AWS cloud infrastructure using Terraform  
-✔ Automated Docker deployment on EC2 using user_data  
-✔ Implemented Infrastructure as Code (IaC) practices  
-✔ Hands-on experience with DevOps tools and workflows  
-✔ Active problem solver on LeetCode  
-✔ Consistent project development on GitHub
 
 <p align="left">
+  ## 🏆 Achievements
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-Pipelines-success?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</p>
+
   <img src="https://leetcard.jacoblin.cool/vigneshvl?theme=dark&font=baloo&ext=contest" />
 </p>
 
