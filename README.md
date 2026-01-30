@@ -5,10 +5,6 @@
   <img src="https://img.shields.io/github/stars/vigneshvl-dev?label=Stars&style=social" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/vigneshvl-dev?label=Followers&style=social" />
-</p>
-
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 - 🌱 I’m currently learning **Devops**
