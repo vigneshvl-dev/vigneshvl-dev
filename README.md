@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm V.L.VIGNESH</h1>
 <h3 align="center">A passionate Devops from India</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshvl-dev&label=Profile%20Views&color=brightgreen&style=flat-square" alt="profile views"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=vigneshvl-dev&label=Profile%20Views&color=brightgreen&style=flat-square)
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
