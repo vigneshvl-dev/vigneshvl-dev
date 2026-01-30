@@ -36,6 +36,14 @@
 
 
 <h3 align="left">🧠 LeetCode Stats</h3>
+## 🏆 Achievements
+
+✔ Built AWS cloud infrastructure using Terraform  
+✔ Automated Docker deployment on EC2 using user_data  
+✔ Implemented Infrastructure as Code (IaC) practices  
+✔ Hands-on experience with DevOps tools and workflows  
+✔ Active problem solver on LeetCode  
+✔ Consistent project development on GitHub
 
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/vigneshvl?theme=dark&font=baloo&ext=contest" />
