@@ -62,7 +62,7 @@
 <br clear="right"/>
 
 
-  <img src="https://leetcard.jacoblin.cool/vigneshvl?theme=dark&font=baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/vigneshvl?theme=dark&font=baloo&ext=contest" />
 </p>
 
 </p>
@@ -70,4 +70,16 @@
 <img src="https://streak-stats.demolab.com?user=vigneshvl-dev&theme=tokyonight" />
 </p>
 </p>
+<h3 align="left">📈 Contribution Graph</h3>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshvl-dev&theme=tokyo-night"/>
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=vigneshvl-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshvl-dev&layout=compact&theme=tokyonight" />
+</p>
+
 
