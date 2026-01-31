@@ -71,8 +71,7 @@
 </p>
 </p>
 <h3 align="left">📈 Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshvl-dev&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshvl-dev&theme=chartreuse-dark" />
 </p>
 
 
